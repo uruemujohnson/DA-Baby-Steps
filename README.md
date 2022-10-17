@@ -1,4 +1,4 @@
-# Project Name: HUman Resource Report
+# Project Name: Human Resource Report
 
 .....
 
